@@ -1,0 +1,9 @@
+<widget id="com.phonegapspain.miapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Abako preescolar</name>
+    <description>
+       Estos son los recursos preescolar Manuel Socorro Rodriguez
+    </description>
+    <author email="propositosabako@gmail.com" href="http://www.publicacionesabako.com">
+        abako
+    </author>
+</widget>
